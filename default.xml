@@ -3,7 +3,7 @@
   <remote name="origin" fetch="https://github.com/ebobo" />
   <default revision="main" remote="origin" />
   
-  <project path="app_a" name="node_app_a_repo" />
-  <project path="app_b" name="node_app_b_repo" />
-  <project path="app_c" name="node_app_c_repo" />
+  <project path="app_a" name="node_app_a_repo" revision="main"/>
+  <project path="app_b" name="node_app_b_repo" revision="main"/>
+  <project path="app_c" name="node_app_c_repo" revision="main"/>
 </manifest>
