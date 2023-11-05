@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="origin" fetch=".." />
+  <remote name="origin" fetch="https://github.com/ebobo" />
   <default revision="main" remote="origin" />
-  <project path="node_app_a" name="AppA" />
-  <project path="node_app_b" name="AppB" />
-  <project path="node_app_c" name="AppC" />
+  
+  <project path="app_a" name="node_app_a_repo" />
+  <project path="app_b" name="node_app_b_repo" />
+  <project path="app_c" name="node_app_c_repo" />
 </manifest>
